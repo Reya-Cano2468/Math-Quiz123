@@ -1,0 +1,16 @@
+body
+{
+   
+background-image: linear-gradient( #00fdff 0%, #4951eb 48%, #fc00ff 91%);
+
+height: 800px;
+}
+
+.login_div1 , .login_div2
+	{
+		background: 177deg, #00fdff 0%, #4951eb 48%, #fc00ff 91%;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+}
+
